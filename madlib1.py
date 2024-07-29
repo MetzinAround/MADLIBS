@@ -16,10 +16,14 @@ puppet = input("Describe puppetry badly: ")
 
 
 
-print(f"Once upon a cronjob, Litlle Sammy was getting ready for a day of work at {Fake_tech_company}. Little Sammy, or Samtholemew the Stout for short, was a Staff {worst_job_title} at {Fake_tech_company}. Which meant their job was to {devops}. But some people said it was more like {devops2}. But really it was spending too much time on {reality}. \n")
+print(f"""
+      Once upon a cronjob, Litlle Sammy was getting ready for a day of work at {Fake_tech_company}. Little Sammy, or Samtholemew the Stout for short, was a Staff {worst_job_title} at {Fake_tech_company}. Which meant their job was to {devops}. But some people said it was more like {devops2}. But really it was spending too much time on {reality}.
 
-print(f"Little Sammy, or 'Samsonite, I was way off!' for short, was {verbing} to the office that day for some reason. They were having a rough time with it. Well when they got to {Fake_tech_company} and put their computer on their desk in the {place_in_office}. Time to get all {number1} of these employees input into the new HR app, {bad_app}. Suddenly, Monsieur{boss} ran into the {place_in_office}. 'SAMSONITE I WAS WAY OFF!' Señor {boss} shouted disdainfully. 'I told you to get all {number1} of these employees uploaded. What is taking so long? \n")
+      Little Sammy, or 'Samsonite, I was way off!' for short, was {verbing} to the office that day for some reason. They were having a rough time with it and were running a little late. When they got to {Fake_tech_company} and put their computer on their desk in the {place_in_office}. Time to get all {number1} of these employees input into the new HR app, {bad_app}. Suddenly, Monsieur{boss} ran into the {place_in_office}. 'LITTLE SAMMY!' Señor {boss} shouted disdainfully. 'I told you to get all {number1} of these employees uploaded. What is taking so long?
 
-print(f"'Well, {boss}-kun, I tried telling you that this was way too many people for this app! IT's help together with {material1} and {material2}. \n")
 
-print(f"'If I wanted your opinion I'd {puppet}. Now Listen up!' {boss} began detailing his plan, and it turned out the plan was to replace Little Sammy, or Sittle Lammy for short, with an LLM model. TO BE CONTINUED \n")
+      'Well, {boss}-kun, I tried telling you that this was way too many people for this app! It's held together with {material1} and {material2} and is a terrible app, like I've been trying to tell you!.
+      
+      'If I wanted your opinion I'd {puppet}. Now Listen up!' {boss} began detailing his plan, and it turned out the plan was to replace Little Sammy, or Sittle Lammy for short, with an LLM model. TO BE CONTINUED
+      """)
+
